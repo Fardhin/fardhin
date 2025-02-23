@@ -2,6 +2,8 @@
 
 💻 Software Developer | 🚀 Flutter & Android Enthusiast | 💡 Problem Solver  
 
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="700">
+
 🌍 **Location:** Bangalore, India  
 🎓 **Education:** B.E. in Computer Science  
 🔭 **Currently Working On:** Flutter Projects  
